@@ -33,15 +33,28 @@
 
 Unreal Engine 4.22.3 
 Rollie Pollie(Working title)
+Team: #TeamSoloCarry
 Made By Aaron Ellacott: Username TheFC
 Made for KiwiJam AUK 2019 (48hrs)
 
+
+
+Goal: Get to the ending without falling off. Get your own personally best. 
+
+Idea: I always wanted to make a platformer of my own and wanted to make it difficult. 
+I want to give my friends a big thanks for the support and trying my game out before hand. 
+
+Special thanks to : Doc_ZER0, Drewyburger, H0RD0,Proxii
+
+
+
 Readme:
 
-1.Extract all files
+1. Extract all files
 2. Run exe file, due to engine, windows thinks the game is a virus. Ignore and run anyways
 3. Enjoy and try not to get sick
-4. To exit alt+F4
+4. "F" to restart, if you fall off the map, you will respawn at the beginning
+5. To exit alt+F4 or press the ESCAPE key
 
 
 Work in progress
